@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "rewire": "^3.0.0",
+    "sinon": "^4.1.2"
+  }
+}
